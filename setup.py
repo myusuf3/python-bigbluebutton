@@ -5,7 +5,7 @@ from distutils.core import setup
 
 setup(
 	name='unbutton',
-	version='0.0.1',
+	version='0.0.2',
 	description='Super simple python wrapper for big blue button.',
 	author='Mahdi Yusuf',
 	author_email='yusuf.mahdi@gmail.com',
